@@ -35,7 +35,7 @@ I’m eager to continue growing as a **Data Scientist / Machine Learning Enginee
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/adam-candalija-naranjo/)
-- 📧 [Email](adamcandalija@gmail.com)  
+- 📧 Email: adamcandalija@gmail.com 
 
 ---
 
