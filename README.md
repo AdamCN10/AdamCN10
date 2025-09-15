@@ -2,7 +2,7 @@
 
 Data Scientist with experience in Python (Pandas, NumPy), Machine Learning (Scikit-learn, Keras), Visualization and specially NLP.
 
-I recently completed the **Data Science & Machine Learning course of 4Geeks Academy**, where I worked on hands-on projects involving:
+I completed the **Data Science & Machine Learning course of 4Geeks Academy**, where I worked on hands-on projects involving:
 
 - 📊 **Data analysis & visualization**  
 - 🤖 **Machine Learning models (supervised & unsupervised)**  
